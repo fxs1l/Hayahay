@@ -2,14 +2,16 @@
 
 Hayahay is a basic home automation system which runs on the local network that can control appliances, lights, and etc., through IOT microcontrollers and a frontend GUI. It is intended to modular so that custom sensor systems can be integrated.
 
+### Connection Redundancies
+It relies on Firebase Realtime Database for allowing a secure way to control the sysystem outside of the local network. Additionally, a local Raspberry Pi broker server running on the local network is set up in case of poor or no internet connection.
+
 ## Demo
 GUI 
 
 ![Flutter GUI](https://github.com/fxs1l/Hayahay/blob/main/demos/hayahay_ui_screenshot.jpg "GUI")
-![Electrical Wiring](https://github.com/fxs1l/Hayahay/blob/main/demos/wiring.jpg "Electrical Wiring")
 
-## Connection Redundancies
-It relies on Firebase Realtime Database for allowing a secure way to control the sysystem outside of the local network. Additionally, a local Raspberry Pi broker server running on the local network is set up in case of poor or no internet connection.
+Wiring
+![Electrical Wiring](https://github.com/fxs1l/Hayahay/blob/main/demos/wiring.jpg "Electrical Wiring")
 
 ## Fun Fact
 'Hayahay' means 'in a relaxed or advantageous state' in Cebuano.
