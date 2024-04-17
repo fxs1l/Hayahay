@@ -17,4 +17,4 @@ Wiring
 'Hayahay' means 'in a relaxed or advantageous state' in Cebuano.
 
 ## Disclaimer
-Some source codes are missing because of a hardware repair that deleted all my personal files back in 2022. I am now revisiting this project in my spare time so that I can properly backup the code and I can get this fully functional again. However this can happen intermittently as this system is setup at my parent's place where I am away from for most of the year due to university.
+Some source codes are missing because of a software repair that deleted all my personal files back in 2022. I am now revisiting this project in my spare time so that I can properly backup the code and I can get this fully functional again. However this can happen intermittently as this system is setup at my parent's place where I am away from for most of the year due to university.
